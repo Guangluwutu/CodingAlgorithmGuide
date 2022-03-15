@@ -9,5 +9,6 @@ public:
 
 class Fibo{
     public:
-        int f2(int n);
+        int fibo1(int n);
+        int fibo2(int n);
 };
